@@ -1,20 +1,22 @@
 CACHE MANIFEST
 app2usb.js
-common.js
+binLoader.js
 dbBackup.js
 dbRestore.js
 disableupdates.js
 dumper.js
 enableupdates.js
+exploit.js
 fanspeed.js
 ftp.js
-HEN.js
 index.html
-jailbreak.js
+kernel.js
+kernelHEN.js
 linux.js
 loader.js
 mira.js
 ToDex.js
+webkit.js
 WebRTE.js
 
 
