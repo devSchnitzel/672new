@@ -1,6 +1,5 @@
 CACHE MANIFEST
 app2usb.js
-binLoader.js
 dbBackup.js
 dbRestore.js
 disableupdates.js
@@ -8,12 +7,14 @@ dumper.js
 enableupdates.js
 fanspeed.js
 ftp.js
+gta.js
 index.html
 kernel.js
 kernelHEN.js
 linux.js
 loader.js
 mira.js
+ps4debug.js
 ToDex.js
 webkit.js
 WebRTE.js
